@@ -11,7 +11,7 @@ I enjoy exploring how things work — whether in computers, electronics, or scie
 - 🎓 DEC in **Sciences de la nature** — gave me strong foundations in math, physics, and problem-solving.  
 - 🖥️ Exploring **cybersecurity basics** (Security+, Google Cybersecurity Certificate, TryHackMe labs).  
 - 🛠️ Passionate about **electronics, hardware repair, and 3D printing**.  
-- 💡 Entrepreneurial: ran **Anatoli Electronics**, buying/repairing/reselling devices.  
+- 💡 Entrepreneurial: helped running **Anatoli Electronics**, buying/repairing/reselling devices.  
 - 🌍 Multilingual: **French, English, Arabic** (fluent) + **German** (basic).  
 - 🤝 Volunteer: scout leader, youth camp facilitator, robotics competitions (FIRST Robotics, Ubisoft Youth Fusion).  
 
