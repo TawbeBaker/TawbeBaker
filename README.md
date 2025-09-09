@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Baker (Mohammad Tawbe)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact)
+
 Welcome to my GitHub!  
 I'm a **tech enthusiast**, **beginner in cybersecurity**, and **hands-on builder** with a background in **Sciences de la nature** (Collège Bois-de-Boulogne).  
 I enjoy exploring how things work — whether in computers, electronics, or science — and I’m always learning by doing.  
