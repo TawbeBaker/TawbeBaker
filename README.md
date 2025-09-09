@@ -76,7 +76,7 @@ Some of these I’ve only tried briefly, while others I’ve used more extensive
 ⭐️ *“I’m not an expert yet — just curious, motivated, and always learning one project at a time.”*
 
 
-> **Note:** The project dates shown on this repository may not always reflect when the work was originally created.  
+> **Note:** The project dates shown on my repositories may not always reflect when the work was originally created.  
 > Many of my earlier projects, notes, and files were kept offline before I opened this account, so some uploads appear newer than they actually are.
 
 
